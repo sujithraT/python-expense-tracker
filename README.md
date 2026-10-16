@@ -1,6 +1,6 @@
 #  Python Expense Tracker
 
-A command-line expense tracker built using Python.
+A simple command-line expense tracker built using Python.
 
 ## Features
 
@@ -8,7 +8,7 @@ A command-line expense tracker built using Python.
 - View all recorded expenses
 - Calculate total spending
 - Validate expense amounts
-- Handle invalid menu choices
+- Handle invalid inputs
 
 ## Technologies Used
 
@@ -26,14 +26,16 @@ A command-line expense tracker built using Python.
 
    python expense_tracker.py
 
-## What I Learned
+##  Sample Output 
+Welcome to Expense Tracker 
 
-- Python data structures
-- User input handling
-- Expense calculations
-- Exception handling
-
+1.Add Expense
+2.Viwe All Expenses
+3.View Total 
+4.Exit
 ## Author
+Sujithra
+
 
 Sujithra | B.Tech IT Student
 
